@@ -1,4 +1,4 @@
-package main.java.generics;
+package java.generics;
 
 import java.util.HashSet;
 import java.util.Set;
